@@ -1,0 +1,11 @@
+What is graph?
+Ans: Graph is a pair of sets (V,G)
+
+Why we need graph?
+Ans: To solve problems like, shortest path, all possible paths, spanning tree etc
+
+What are the important terminologies of graph?
+Ans: 1) Vertices, 2) Edges, 3) Unweighted Graph, 4) Weighted Graph, 5) Undirected Graph, 6) Directed Graph, 7) Cyclic Graph, 8) Acyclic Graph, 9) Tree --> Directed Acyclic Graph(DAG)
+
+What are the types of Graphs?
+
