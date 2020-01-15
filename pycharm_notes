@@ -2,8 +2,18 @@ Shortcuts:
 ------------
 command + delete to delete the line
 
+option + command + L to format the code
+
+option + shift + command + L to format the code
+
+To delete a file, select the file and press delete button
 
 
+Imports:
+---------
 To import the module created in directory1 into directory2,
 mark directory1 an source root by right clicking the directory1 and choosing "Mark Directory as Source Root"
+
+We should mark the Directories as Source Root whose modules is being imported in another modules in the same directory or different directory
+
 
