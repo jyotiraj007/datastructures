@@ -1,0 +1,9 @@
+Shortcuts:
+------------
+command + delete to delete the line
+
+
+
+To import the module created in directory1 into directory2,
+mark directory1 an source root by right clicking the directory1 and choosing "Mark Directory as Source Root"
+

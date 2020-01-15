@@ -9,3 +9,21 @@ Ans: 1) Vertices, 2) Edges, 3) Unweighted Graph, 4) Weighted Graph, 5) Undirecte
 
 What are the types of Graphs?
 
+In how many ways we can represent graphs?
+Ref:
+https://www.youtube.com/watch?v=HDUzBEG1GlA
+https://github.com/joeyajames/Python
+1) Adjacency Matrix
+2) Adjacency List
+
+What is dense graph?
+Ans: Dense graph is when |E| = |V|^2
+
+What is sparse graph?
+Ans: Sparse graph is when |E| = |V|
+
+When to use which representation?
+Ans: In case of dense graph Adjacency Matrix Representation is recommended
+and in case of sparse graph Adjacency List Representation is recommended
+
+
