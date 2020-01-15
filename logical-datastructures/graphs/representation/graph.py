@@ -14,11 +14,11 @@ class Graph:
 
     def add_edges(self, u, v):
         """ adds edges between two vertices"""
-        if u.name in self.vertices and v.name in self.vertices:
+        if u in self.vertices and v in self.vertices:
             for key, value in self.vertices.items():
-                if key == u.name and not any(val.name == v.name for val in value.neighbours):
+                if key == u:
                     self.vertices[key].add_neighbours(v)
-                if key == v.name and not any(val.name == u.name for val in value.neighbours):
+                if key == v:
                     self.vertices[key].add_neighbours(u)
             return True
         else:

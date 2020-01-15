@@ -10,20 +10,12 @@ v4 = Vertex('four')
 v5 = Vertex('five')
 v6 = Vertex('six')
 
-graph.add_vertices(v1)
-graph.add_vertices(v2)
-graph.add_vertices(v3)
-graph.add_vertices(v4)
-graph.add_vertices(v5)
-graph.add_vertices(v6)
+for i in range(ord('A'), ord('E')):
+    graph.add_vertices(Vertex(chr(i)))
 
-graph.add_edges(v1, v2)
-graph.add_edges(v2, v3)
-graph.add_edges(v1, v3)
-graph.add_edges(v4, v6)
-graph.add_edges(v2, v4)
-graph.add_edges(v5, v1)
-graph.add_edges(v6, v3)
+edges = ['AB', 'AC', 'BD', 'CE', 'BA', 'BE', 'BC', 'CD', 'CA']
+
+for edge in edges:
+    graph.add_edges(edge[:1], edge[1:])
 
 graph.show_graph()
-
