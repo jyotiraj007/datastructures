@@ -1,5 +1,6 @@
 What is graph?
 Ans: Graph is a pair of sets (V,G)
+A Graph consists of a finite set of vertices(or nodes) and set of Edges which connect a pair of nodes.
 
 Why we need graph?
 Ans: To solve problems like, shortest path, all possible paths, spanning tree etc

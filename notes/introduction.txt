@@ -1,0 +1,21 @@
+Types of data structure
+1) Primitive
+2) Non Primitive
+
+Primitive Data Structure
+Integer, Float, Character, Boolean
+
+Non Primitive Data Structure
+1) Physical
+2) Logical
+
+Physical Data Structure
+1) Array
+2) Linked List
+
+Logical Data Structure
+1) Stack
+2) Queue
+3) Tree
+4) Graph
+

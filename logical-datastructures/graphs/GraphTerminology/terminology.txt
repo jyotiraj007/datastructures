@@ -1,0 +1,11 @@
+Ref: https://monotype79.udemy.com/course/learn-data-structure-algorithms-with-java-interview/learn/lecture/14175791#questions
+
+Vertices
+Edges
+Unweighted Graph
+Weighted Graph
+Directed Graph
+Undirected Graph
+Cyclic Graph
+Acyclic Graph
+Tree: (DAG)/Directed Acyclic Graph

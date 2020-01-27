@@ -1,0 +1,14 @@
+Ref: https://monotype79.udemy.com/course/learn-data-structure-algorithms-with-java-interview/learn/lecture/14175785#questions
+
+DEFINITION
+------------
+Graph is a non linear data structure.
+Graph is an ordered pair of V and E where,
+V is set of vertices
+E is set of Edges
+
+TYPES
+------
+
+
+

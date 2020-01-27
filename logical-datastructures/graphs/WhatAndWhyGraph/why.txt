@@ -1,0 +1,2 @@
+Graph is a logical data structure which can be used to find out the solution of the problems like,
+finding out the shortest path between two nodes, all paths between two nodes, spanning tree problem etc
