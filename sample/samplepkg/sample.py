@@ -27,4 +27,4 @@ dic = {'a': 1,
        'b': 2,
        'c': 3}
 
-print(('d' in dic))
+print(('c' in dic))

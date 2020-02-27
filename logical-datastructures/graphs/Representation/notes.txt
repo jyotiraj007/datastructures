@@ -1,0 +1,27 @@
+Adjacency Matrix
+http://mathworld.wolfram.com/AdjacencyMatrix.html
+The adjacency matrix, sometimes also called the connection matrix, of a simple labeled graph is a matrix with rows and columns labeled by graph vertices,
+with a 1 or 0 in position (v_i,v_j) according to whether v_i and v_j are adjacent or not.
+For a simple graph with no self-loops, the adjacency matrix must have 0s on the diagonal.
+For an undirected graph, the adjacency matrix is symmetric.
+
+Adjacency List
+http://mathworld.wolfram.com/AdjacencyList.html
+The adjacency list representation of a graph consists of n lists one for each vertex v_i, 1<=i<=n, which gives the vertices to which v_i is adjacent.
+
+What is Sparse Matrix
+http://www.btechsmartclass.com/data_structures/sparse-matrix.html
+In computer programming, a matrix can be defined with a 2-dimensional array. Any array with 'm' columns and 'n' rows represent a m X n matrix.
+There may be a situation in which a matrix contains more number of ZERO values than NON-ZERO values. Such matrix is known as sparse matrix.
+
+How to represent graphs
+https://www.geeksforgeeks.org/graph-and-its-representations/
+1) Adjacency Matrix
+2) Adjacency List
+
+When to use Adjacency Matrix to represent graph
+
+When to use Adjacency List to represent graph
+
+Pro and Cons of Adjacency Matrix and List
+https://stackoverflow.com/questions/2218322/what-is-better-adjacency-lists-or-adjacency-matrices-for-graph-problems-in-c
