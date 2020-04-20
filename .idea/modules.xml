@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/git-repos.iml" filepath="$PROJECT_DIR$/.idea/git-repos.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/datastructures.iml" filepath="$PROJECT_DIR$/.idea/datastructures.iml" />
+>>>>>>> 230459277c5d4399b8735dec0f87853a2450a3b2
     </modules>
   </component>
 </project>
